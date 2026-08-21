@@ -66,6 +66,7 @@ Algorithm:
  
 Program:
 
+```
 #include <stdio.h>
 
 struct numbers {
